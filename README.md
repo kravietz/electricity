@@ -6,8 +6,8 @@ Uses SSD1306 OLED for the actual display.
 
 ## Pin mapping
 
-| ESP8266 | SSD1306 |
-+---------+---------+
+| SSD1306 | ESP8266 |
+|---------|---------|
 | GND     | GND     |
 | VDD     | 3V3     |
 | SCK     | D1      |
